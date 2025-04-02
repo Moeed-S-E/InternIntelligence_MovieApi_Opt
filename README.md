@@ -4,6 +4,7 @@ Hey there! Welcome to my Movie Database API—a project I built as my first inte
 
 ## What’s This All About?
 This API is my take on organizing movie data using Spring Boot. It’s got all the CRUD basics—create, read, update, and delete—wrapped up with some cool tools like Swagger for easy testing. Whether you’re adding a new flick or pulling up details on an old favorite, it’s got you covered.
+Now Optimized DataBase Operations
 
 ## Features
 - **CRUD Operations**: Add a movie, fetch one by ID, list them all, update details, or delete one you’re done with.
